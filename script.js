@@ -1,7 +1,7 @@
 // script.js
 document.addEventListener('DOMContentLoaded', () => {
     // Replace with your Discord User ID
-    const DISCORD_USER_ID = 'YOUR_DISCORD_USER_ID_HERE';
+    const DISCORD_USER_ID = '1290405643576152097';
     const LANYARD_API = `https://api.lanyard.rest/v1/users/${DISCORD_USER_ID}`;
 
     // Fetch Discord Presence
